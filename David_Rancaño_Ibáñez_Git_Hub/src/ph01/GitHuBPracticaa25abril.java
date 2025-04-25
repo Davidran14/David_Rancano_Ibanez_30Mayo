@@ -8,9 +8,12 @@ public class GitHuBPracticaa25abril {
 		int num1 = 54;
 		int num2 = 5; 
 		int suma = num1 + num2;
+		int resta = num1 - num2;
 		
 		
 		System.out.println("La suma de los numeros es: " + suma);
+		System.out.println("La resta de los numeros es: " + resta);
+		
 		
 		
 		
