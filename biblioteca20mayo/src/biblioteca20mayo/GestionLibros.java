@@ -76,7 +76,8 @@ public class GestionLibros {
     /**
      * Cuenta el número de libros.
      * 
-     * @return El número de libros actuales.
+     * @return El número de libros actual
+     * .
      */
     public static int contarLibros() {
         return contador;
